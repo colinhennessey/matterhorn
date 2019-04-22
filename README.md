@@ -1,5 +1,7 @@
 # Matterhorn 🏔
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/MatterhornDev/matterhorn.svg)](https://greenkeeper.io/)
+
 An API Boilerplate project built with Node.js and Typescript.
 
 - ⏱ Runtime: [Node.js](https://nodejs.org/en/)
